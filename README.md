@@ -155,7 +155,7 @@ interview-crafter-handbook/
 
 <div align="center">
 
-**[购买完整版 ¥29](https://example.com/buy)** | **[Star ⭐](https://github.com/tinating-song/interview-crafter-handbook)**
+**[购买完整版 ¥29](BUY.md)** | **[Star ⭐](https://github.com/tinating-song/interview-crafter-handbook)**
 
 Made with ❤️ for developers
 
