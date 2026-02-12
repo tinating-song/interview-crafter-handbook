@@ -6,7 +6,7 @@
 
 高效准备技术面试，从算法到系统设计全覆盖
 
-[![Star](https://img.shields.io/github/stars/interview-crafter/handbook?style=social)](https://github.com/interview-crafter/handbook)
+[![Star](https://img.shields.io/github/stars/tinating-song/interview-crafter-handbook?style=social)](https://github.com/tinating-song/interview-crafter-handbook)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 </div>
@@ -155,7 +155,7 @@ interview-crafter-handbook/
 
 <div align="center">
 
-**[购买完整版 ¥29](https://example.com/buy)** | **[Star ⭐](https://github.com/interview-crafter/handbook)**
+**[购买完整版 ¥29](https://example.com/buy)** | **[Star ⭐](https://github.com/tinating-song/interview-crafter-handbook)**
 
 Made with ❤️ for developers
 
